@@ -1,0 +1,4 @@
+src/no-vc/*
+README.html
+*.un~
+output/*
