@@ -1,5 +1,7 @@
 # Research code for the paper "Identifying territories using citizen science data: an application to the Finnish wolf population"
 
+_Karppinen, Rajala, Mäntyniemi, Kojola, Vihola, "Identifying territories using presence-only citizen science data: an application to the Finnish wolf population", under revision for Ecological Modelling (2022)_
+
 This repository contains code used to produce the results in Sections 3.2 - 3.4.
 Note that the Tassu data is not public, so the code may only be run for experiments that do not directly use
 the Tassu data. 
