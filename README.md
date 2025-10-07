@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/504526087.svg)](https://doi.org/10.5281/zenodo.17288834)
+
 # Research code for the paper "Identifying territories using citizen science data: an application to the Finnish wolf population"
 
 _Karppinen, Rajala, Mäntyniemi, Kojola, Vihola, "Identifying territories using presence-only citizen science data: an application to the Finnish wolf population", under revision for Ecological Modelling (2022)_
