@@ -2,7 +2,9 @@
 
 # Research code for the paper "Identifying territories using citizen science data: an application to the Finnish wolf population"
 
-_Karppinen, Rajala, Mäntyniemi, Kojola, Vihola, "Identifying territories using presence-only citizen science data: an application to the Finnish wolf population", under revision for Ecological Modelling (2022)_
+_Karppinen, Rajala, Mäntyniemi, Kojola, Vihola, "Identifying territories using presence-only citizen science data: an application to the Finnish wolf population"_
+
+DOI: https://doi.org/10.1016/j.ecolmodel.2022.110101
 
 This repository contains code used to produce the results in Sections 3.2 - 3.4.
 Note that the data on the Finnish wolf population is not public, so the code may only be run for experiments that do not directly use it. 
